@@ -1,8 +1,8 @@
 class Atman < Formula
   desc "Ticket board CLI (atm) for coordinating AI coding agents on one board"
   homepage "https://github.com/advitiyavashist/atman"
-  url "https://github.com/advitiyavashist/atman/releases/download/v0.2.0/atman-0.2.0.tar.gz"
-  sha256 "59f4921cfdbbac5b16803f7b9e9de41fc18428a59fe32a6a3ad76061ce302b79"
+  url "https://github.com/advitiyavashist/atman/releases/download/v0.3.0/atman-0.3.0.tar.gz"
+  sha256 "410cf80277236e47e6b31072f096985165427b1e9aa5e4bc4df494bc7a2eceb9"
   license "MIT"
 
   depends_on "python@3.13"
